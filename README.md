@@ -1,7 +1,7 @@
-# classic_RBAC_for_next
+# RBAC_next_standart
 
 ## Web version
-https://classic-rbac-for-next.vercel.app/
+https://rbac-next-standart.vercel.app/
 
 ## Used fake API:
 https://fakeapi.platzi.com/en/rest/users/
