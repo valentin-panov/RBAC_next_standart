@@ -49,7 +49,7 @@ const Login: React.FC = () => {
       }}
     >
       <h1>Login Page</h1>
-      <button onClick={() => onClick("customer")}>User login</button>
+      <button onClick={() => onClick("customer")}>Customer login</button>
       <p>or</p>
       <button onClick={() => onClick("admin")}>Admin login</button>
     </div>
