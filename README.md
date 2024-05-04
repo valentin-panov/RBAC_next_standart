@@ -1,4 +1,4 @@
-# RBAC in React/Next application
+# Role-Based Access Control in React/Next application
 
 Applications developed using React often encounter security vulnerabilities, particularly concerning the limitation of unauthorized access. Here are several reasons why this occurs:
 
