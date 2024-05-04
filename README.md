@@ -1,4 +1,5 @@
 # Role-Based Access Control in React/Next application
+## Part 1: Classic limitations
 
 Applications developed using React often encounter security vulnerabilities, particularly concerning the limitation of unauthorized access. Here are several reasons why this occurs:
 
