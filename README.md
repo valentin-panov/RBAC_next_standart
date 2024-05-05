@@ -11,6 +11,8 @@ Applications developed using React often encounter security vulnerabilities, par
 
 We have developed a demonstration application where vulnerabilities have been implemented in the insufficient protection of routes. Specifically, the attacker's browser receives all JavaScript chunks that could be utilized on the page, and only after receiving this code does the browser decide to restrict access. As a result, the attacker gains access to all code, sometimes even code not intended for authenticated users but without administrator rights.
 
+As you comprehend, malicious actors will actively seek such opportunities to infiltrate our system.
+
 You may attempt to reproduce this behavior by entering the URL /admin in the address bar. For a brief moment, the browser will display the Admin Space page, only redirecting you to the authentication page thereafter.
 
 The code responsible for such behavior may appears as follows:
